@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/db1_root"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout style="@style/TitleBar">
+   
+
+        <ImageView style="@style/TitleBarSeparator" />
+        
+         <TextView style="@style/TitleBarText"
+            android:id="@+id/TextView01"
+            android:gravity="center_vertical|center_horizontal"
+android:text="@string/main_mute_title" >
+ </TextView>
+ 
+        <ImageButton style="@style/TitleBarAction"
+            android:src="@drawable/help_button_bar"
+            android:onClick="click" />
+</LinearLayout>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:padding="6dip">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       >
+        <Button android:id="@+id/home_btn_feature1"
+            style="@style/HomeButton"
+            android:onClick="onClickFeature"
+            android:text="@string/title_feature1"
+            android:drawableTop="@drawable/mute_phone_button"
+            
+            />
+        
+          <Button android:id="@+id/home_btn_feature2"
+            style="@style/HomeButton"
+            android:onClick="onClickFeature"
+            android:text="@string/quick_mute_title"
+            android:drawableTop="@drawable/quick_mute_button"
+            
+            />
+        
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    
+       
+        >
+    
+    
+        
+        <ListView android:id="@+id/android:list"
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent" />
+          <TextView android:id="@+id/android:empty"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/no_adds" 
+                       android:gravity="center_horizontal"
+                      android:textSize= "20sp"  />
+                          <!--  check if that is the right thing to use sp  -->
+    </LinearLayout>
+
+
+</LinearLayout>
+
+</LinearLayout>

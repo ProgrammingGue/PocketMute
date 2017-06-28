@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\StudioProjects\pocketmute\app\libs\GoogleAdMobAdsSdk-6.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e6b52dcd6402380542cb37557bd04e06e6d7e47d">
+        <dex dex="C:\Users\Sean\StudioProjects\pocketmute\app\build\intermediates\transforms\dex\debug\folders\1000\2\GoogleAdMobAdsSdk-6.0.1_0b46ad20fcd622050db7ebfc4d3aff384fc4c7da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\StudioProjects\pocketmute\app\libs\FlurryAgent.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="337ee197be840a9274afa5441b45445ab5674230">
+        <dex dex="C:\Users\Sean\StudioProjects\pocketmute\app\build\intermediates\transforms\dex\debug\folders\1000\2\FlurryAgent_00adfefa8488a02bc14bd0b7892e76b22ce7ae87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\StudioProjects\pocketmute\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4d01144c6e793a728eb3e503b8c30cf13ac19486">
+        <dex dex="C:\Users\Sean\StudioProjects\pocketmute\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cac517d3725c28937ebdf2f5251e16c1a878c6d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\StudioProjects\pocketmute\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Sean\StudioProjects\pocketmute\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7964d5fa780074983cc8d0d229649174a8295bab\classes.dex" />
+    </item>
+
+</items>

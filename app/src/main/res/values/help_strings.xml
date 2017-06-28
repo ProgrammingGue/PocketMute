@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="help_title_section1">Mute Phone</string>
+    <string name="help_text_section1">Mute phone - This allows you to set start time of mute and end time of mute, repeat on what days, label of alarm and vibration on or off</string>
+   
+
+    <string name="help_title_section2">Quick Mute</string>
+    <string name="help_text_section2">Quick Mute - This allows you to set alarm quick, suchh as alarm for short meeting eg 30mins and also you can pick if you want vibration on!</string>
+
+    <string name="help_title_section3">Turn Off Alarm</string>
+    <string name="help_text_section3">Turn off Alarm - To turn off alarm click on the alarm you want to turn off and it bring you to the edit alarm and there is a button at the bottom to turn it off</string>
+  
+    <string name="help_title_section4">Delete Alarm</string>
+    <string name="help_text_section4">Delete Alarm - Long press on the alarm you want to delete and a pop will ask if you want to delete alarm</string>
+ 
+     <string name="help_title_section5">Edit Alarm</string>
+    <string name="help_text_section5">Edit Alarm - To edit alarm just click on the alarm you want to edit.</string>
+    
+
+</resources>

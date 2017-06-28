@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mute_pressed.png",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\drawable-hdpi\\mute_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\quick_mute_pressed.png",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\drawable-hdpi\\quick_mute_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\light.png",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\drawable-hdpi\\light.png"
+    }
+]

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res"/><source path="C:\Users\Sean\StudioProjects\pocketmute\app\build\generated\res\rs\debug"/><source path="C:\Users\Sean\StudioProjects\pocketmute\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\Sean\StudioProjects\pocketmute\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res"><file name="help" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable\help.png" qualifiers="" type="drawable"/><file name="help_button_bar" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable\help_button_bar.xml" qualifiers="" type="drawable"/><file name="help_pressed" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable\help_pressed.png" qualifiers="" type="drawable"/><file name="icon" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable\icon.png" qualifiers="" type="drawable"/><file name="mute_phone_button" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable\mute_phone_button.xml" qualifiers="" type="drawable"/><file name="mymute" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable\mymute.png" qualifiers="" type="drawable"/><file name="quick_mute_button" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable\quick_mute_button.xml" qualifiers="" type="drawable"/><file name="set_mute" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable\set_mute.png" qualifiers="" type="drawable"/><file name="set_mute_pressed" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable\set_mute_pressed.png" qualifiers="" type="drawable"/><file name="icon" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="light" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable-hdpi\light.png" qualifiers="hdpi-v4" type="drawable"/><file name="mute_pressed" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable-hdpi\mute_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="quick_mute_pressed" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable-hdpi\quick_mute_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable-ldpi\icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\drawable-mdpi\icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="app_list" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\layout\app_list.xml" qualifiers="" type="layout"/><file name="editinfo" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\layout\editinfo.xml" qualifiers="" type="layout"/><file name="editinfo_row" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\layout\editinfo_row.xml" qualifiers="" type="layout"/><file name="help_page" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\layout\help_page.xml" qualifiers="" type="layout"/><file name="main_activity" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\layout\main_activity.xml" qualifiers="" type="layout"/><file name="quick_mute_dialog" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\layout\quick_mute_dialog.xml" qualifiers="" type="layout"/><file name="quick_mute_menu" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\layout\quick_mute_menu.xml" qualifiers="" type="layout"/><file name="add_menu" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\menu\add_menu.xml" qualifiers="" type="menu"/><file name="deleteentrymenu" path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\menu\deleteentrymenu.xml" qualifiers="" type="menu"/><file path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\values\help_strings.xml" qualifiers=""><string name="help_title_section5">Edit Alarm</string><string name="help_title_section4">Delete Alarm</string><string name="help_title_section3">Turn Off Alarm</string><string name="help_title_section2">Quick Mute</string><string name="help_title_section1">Mute Phone</string><string name="help_text_section2">Quick Mute - This allows you to set alarm quick, suchh as alarm for short meeting eg 30mins and also you can pick if you want vibration on!</string><string name="help_text_section1">Mute phone - This allows you to set start time of mute and end time of mute, repeat on what days, label of alarm and vibration on or off</string><string name="help_text_section4">Delete Alarm - Long press on the alarm you want to delete and a pop will ask if you want to delete alarm</string><string name="help_text_section3">Turn off Alarm - To turn off alarm click on the alarm you want to turn off and it bring you to the edit alarm and there is a button at the bottom to turn it off</string><string name="help_text_section5">Edit Alarm - To edit alarm just click on the alarm you want to edit.</string></file><file path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\values\strings.xml" qualifiers=""><item name="title_text" type="id"/><color name="foreground1">#ff355689</color><color name="background1">#ffffffff</color><color name="foreground2">#ff7081a3</color><color name="title_separator">#40ffffff</color><color name="background3">#ffe3e8f1</color><color name="background2">#ffd5ddeb</color><color name="light_foreground1">#ffeeeeee</color><string name="help_page">Help Page</string><dimen name="text_size_large">22sp</dimen><string name="delete_time">Delete Time</string><color name="dark_background">#ff000000</color><color name="dark_foreground1">#ff000000</color><dimen name="text_size_medium">18sp</dimen><string name="main_mute_title">Pocket Mute</string><color name="title_background">#446b9b</color><string name="no_adds"/><string name="app_name">Pocket Mute</string><color name="light_background">#ffffffff</color><string name="set_mute_title">Save</string><dimen name="title_height">45dip</dimen><string name="help_page_text">Created by Sean O Neill - Beta Version 22/06/2012 - Everything might not work in this version yet or more stuff might be added before it is released fully :)</string><color name="title_text">#ffffffff</color><dimen name="text_size_small">14sp</dimen><string name="bottom_menu">Add Time</string><string name="title_feature2">Quick Mute</string><string name="title_feature1">Mute Phone</string><string name="quick_mute_title">Quick Mute</string></file><file path="C:\Users\Sean\StudioProjects\pocketmute\app\src\main\res\values\styles.xml" qualifiers=""><style name="Theme.D1dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="Theme.D1t" parent="android:style/Theme.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="TitleBarAction">
+        <item name="android:layout_width">@dimen/title_height</item>
+        <item name="android:layout_height">fill_parent</item>
+        
+    </style><style name="TitleBarText">
+     
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/title_text</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style><style name="TextBody">
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+        <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style><style name="HelpButton.Dark">
+        <item name="android:textColor">@color/dark_foreground1</item>
+    </style><style name="TitleBarSpring">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+    </style><style name="TitleBarLogo">
+     
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:clickable">true</item>
+    </style><style name="TitleBar">
+   
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/title_height</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/title_background</item>
+    </style><style name="TitleBarProgressIndicator" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">14dip</item>
+        <item name="android:layout_marginRight">15dip</item>
+        <item name="android:layout_marginTop">14dip</item>
+        <item name="android:indeterminate">true</item> 
+    </style><style name="HelpButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/light_foreground1</item>
+        <item name="android:background">@null</item>
+    </style><style name="TitleBarSeparator">
+        <item name="android:layout_width">1px</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@color/title_separator</item>
+    </style><style name="Theme.D1tranlucent" parent="android:style/Theme.Translucent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="HomeButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/foreground1</item>
+        <item name="android:background">@null</item>
+    </style><style name="Theme" parent="android:Theme"/><style name="Theme.D1" parent="android:style/Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style></file></source><source path="C:\Users\Sean\StudioProjects\pocketmute\app\build\generated\res\rs\debug"/><source path="C:\Users\Sean\StudioProjects\pocketmute\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\Sean\StudioProjects\pocketmute\app\src\debug\res"/></dataSet><mergedItems/></merger>

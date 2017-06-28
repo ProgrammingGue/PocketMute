@@ -1,0 +1,7 @@
+#Wed Jun 28 23:39:25 BST 2017
+base.0=C\:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\FlurryAgent_00adfefa8488a02bc14bd0b7892e76b22ce7ae87
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\GoogleAdMobAdsSdk-6.0.1_0b46ad20fcd622050db7ebfc4d3aff384fc4c7da\\classes.dex
+base.1=C\:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\GoogleAdMobAdsSdk-6.0.1_0b46ad20fcd622050db7ebfc4d3aff384fc4c7da
+file.0=C\:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\FlurryAgent_00adfefa8488a02bc14bd0b7892e76b22ce7ae87\\classes.dex

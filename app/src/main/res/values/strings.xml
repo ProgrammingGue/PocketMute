@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Pocket Mute</string>
+
+    <string name="no_adds"></string>
+    <string name="title_feature1">Mute Phone</string>
+    <string name="title_feature2">Quick Mute</string>
+    <string name="quick_mute_title">Quick Mute</string>
+    <string name="main_mute_title">Pocket Mute</string>
+     <string name="help_page">Help Page</string>
+    <string name="set_mute_title">Save</string>
+    <string name="help_page_text">Created by Sean O Neill - Beta Version 22/06/2012 - Everything might not work in this version yet or more stuff might be added before it is released fully :)</string>
+    <string name="bottom_menu">Add Time</string>
+    <string name="delete_time">Delete Time</string>
+        
+        
+    <color name="title_background">#446b9b</color>
+    <color name="title_text">#ffffffff</color>
+    <color name="foreground1">#ff355689</color>
+    <color name="foreground2">#ff7081a3</color>
+    <color name="background1">#ffffffff</color>
+    <color name="background2">#ffd5ddeb</color>
+    <color name="background3">#ffe3e8f1</color>
+    <color name="title_separator">#40ffffff</color>
+    
+    
+    <dimen name="title_height">45dip</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    
+    <item type="id" name="title_text" />
+    
+      <color name="light_background">#ffffffff</color>
+    <color name="dark_background">#ff000000</color>
+    <color name="light_foreground1">#ffeeeeee</color>
+    <color name="dark_foreground1">#ff000000</color>
+
+</resources>

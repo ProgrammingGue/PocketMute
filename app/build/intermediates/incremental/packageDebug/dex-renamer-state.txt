@@ -1,0 +1,7 @@
+#Wed Jun 28 23:39:27 BST 2017
+base.0=C\:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7964d5fa780074983cc8d0d229649174a8295bab
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cac517d3725c28937ebdf2f5251e16c1a878c6d0\\classes.dex
+base.1=C\:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cac517d3725c28937ebdf2f5251e16c1a878c6d0
+file.0=C\:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7964d5fa780074983cc8d0d229649174a8295bab\\classes.dex

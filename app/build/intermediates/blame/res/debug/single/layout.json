@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_list.xml",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\layout\\app_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editinfo.xml",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\layout\\editinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_mute_menu.xml",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\layout\\quick_mute_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_page.xml",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\layout\\help_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_mute_dialog.xml",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\layout\\quick_mute_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editinfo_row.xml",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\layout\\editinfo_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "C:\\Users\\Sean\\StudioProjects\\pocketmute\\app\\src\\main\\res\\layout\\main_activity.xml"
+    }
+]

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:id="@+id/db1_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout style="@style/TitleBar" >
+
+
+
+        <ImageView style="@style/TitleBarSeparator" />
+
+        <TextView
+            android:id="@+id/TextView01"
+            style="@style/TitleBarText"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/main_mute_title" >
+        </TextView>
+
+        <ImageButton
+            style="@style/TitleBarAction"
+            android:onClick="onClick"
+            android:src="@drawable/help_button_bar" />
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="335dp"
+        android:layout_weight="1.03" >
+
+        <ListView
+            android:id="@android:id/list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </ListView>
+        
+           <com.google.ads.AdView android:id="@+id/adView"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         ads:adUnitId="a14fdfd48c96d73"
+                         ads:adSize="BANNER"
+                         ads:testDevices="TEST_EMULATOR, 80A354043042272346"
+                         ads:loadAdOnCreate="true"/>
+    </TableLayout>
+
+    <LinearLayout  
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        
+      
+
+        <!-- check if that is the right thing to use sp -->
+        <LinearLayout android:layout_height="wrap_content"
+             
+             android:layout_weight="0.30" 
+             android:layout_width="fill_parent" 
+             android:orientation="horizontal">
+             
+            
+             
+            
+            <Button android:id="@+id/button10" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content" 
+                android:layout_weight="0.30" 
+                android:onClick="onClickFeature" 
+                android:text="Save"/>
+          
+               <Button android:id="@+id/button30" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content" 
+                android:layout_weight="0.30" 
+                android:onClick="onClickFeature" 
+                android:text="Turn Off"/>
+            
+            <Button android:layout_weight="0.30"
+                 android:id="@+id/button20" 
+                 android:layout_width="wrap_content" 
+                 android:layout_height="wrap_content" 
+                 android:onClick="onClickFeature" 
+                 android:text="Cancel"/>
+            
+            
+            
+        </LinearLayout>
+
+           
+        
+    </LinearLayout>
+
+</LinearLayout>   
